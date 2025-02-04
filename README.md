@@ -50,11 +50,8 @@ Start the Streamlit app:
 streamlit run agent_ohana_demo.py
 ```
 ## Output
-```
+
 ![image](https://github.com/user-attachments/assets/ce9ed8ce-092b-4263-84be-1c28cc3588fa)
-
-
-```
 
 
 The demo will open in your default web browser, showing the real-time collaboration between agents and allowing you to interact with the system.
