@@ -1,0 +1,6 @@
+{
+  "model_name": "AgentOhana-xLAM",
+  "base_model": "xLAM-v0.1",
+  "model_path": "deployed_model\\model",
+  "device": "cpu"
+}

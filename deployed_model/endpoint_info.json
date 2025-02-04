@@ -1,0 +1,23 @@
+{
+  "service_url": "http://localhost:8000",
+  "endpoints": {
+    "predict": "/api/v1/predict",
+    "health": "/api/v1/health"
+  },
+  "model_info": {
+    "name": "AgentOhana-xLAM",
+    "version": "1.0.0"
+  },
+  "status": "active",
+  "documentation": {
+    "description": "AgentOhana xLAM API",
+    "example_request": {
+      "method": "POST",
+      "endpoint": "/api/v1/predict",
+      "body": {
+        "input": "Your input text here",
+        "max_length": 100
+      }
+    }
+  }
+}
